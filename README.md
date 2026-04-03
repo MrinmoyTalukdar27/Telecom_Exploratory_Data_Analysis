@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌  Project Overview
 
 Customer churn is one of the most expensive problems in the telecom industry. Acquiring a new customer costs significantly more than retaining an existing one, which makes it critical to understand *why* customers leave. This project digs into a real-world telecom dataset to uncover patterns in demographics, service usage, contract behaviour, and payment habits — all with the goal of understanding what separates customers who stay from those who don't.
 
