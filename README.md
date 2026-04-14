@@ -16,7 +16,7 @@ Customer churn is one of the most expensive problems in the telecom industry. Ac
 
 ---
 
-## 🎯 bObjectives
+## 🎯 Objectives
 
 - Understand the overall scale of churn in the dataset
 - Identify which customer segments are most at risk
